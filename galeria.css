@@ -1,0 +1,13 @@
+
+.container img:hover {
+    transition: transform .3s;
+    -ms-transform: scale(1.4);
+    -webkit-transform: scale(1.4);  
+    transform: scale(1.4);
+  }
+  .container img {
+    border-radius: 2px;
+  }
+  .container img {
+    transition: transform .3s;  
+  }
